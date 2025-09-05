@@ -6,7 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-del-system32&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudo-del-system32" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-del-system32&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-del-system32" /> </p>
 
 - 🌱 I’m currently learning **Python, Java, C++, OPP**
 
