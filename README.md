@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A Computer Engineering Studant</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-del-system32&show_icons=true&theme=dark&locale=en" alt="sudo-del-system32" /></p
