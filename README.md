@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Computer Engineering Studant</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-del-system32&show_icons=true&theme=dark&locale=en" alt="sudo-del-system32" /></p
-
+<div style="text-align: center;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-del-system32&show_icons=true&theme=dark&locale=en" alt="sudo-del-system32" /></p
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-del-system32&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-del-system32" /> </p>
 
 - 🌱 I’m currently learning **Python, Java, C++, OPP**
