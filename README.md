@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fcobertini@gmail.com**
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-del-system32&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudo-del-system32" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-del-system32&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudo-del-system32" /></p>
 
 
 
