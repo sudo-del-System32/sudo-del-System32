@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Studant</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-del-system32&show_icons=true&theme=dark&locale=en" alt="sudo-del-system32" /></p
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-del-system32&show_icons=true&theme=dark&locale=en" alt="sudo-del-system32" /></p
 
 - 🌱 I’m currently learning **Python, Java, C++, OPP**
 
